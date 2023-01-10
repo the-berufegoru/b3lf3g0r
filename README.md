@@ -22,6 +22,7 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b3lf3g0r&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3lf3g0r&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b3lf3g0r&show_icons=true&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=b3lf3g0r&show_icons=true&locale=en&layout=compact"/>
 </p>
+
