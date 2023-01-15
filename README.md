@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm b3lf3g0r</h1>
-<h3 align="center">A passionate cyber security enthusiast, back-end developer from South Africa</h3>
+<h3 align="center">A passionate cyber security enthusiast, IT project manager and back-end developer from South Africa</h3>
 
-- 🔭 I’m currently working on [astro-sdk](https://github.chttps://github.com/b3lf3g0r/astro-sdk)
+- 🔭 I’m currently working on [astro-sdk](https://github.chttps://github.com/afridek/astro-sdk)
 
 - 🌱 I’m currently learning **C, Linux, JavaScript, Python, Project Management and Cyber Security**
 
-- 👯 I’m looking to collaborate on [astro-commerce](https://github.chttps://github.com/b3lf3g0r/astro-commerce)
+- 👯 I’m looking to collaborate on [projet-pending]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/b3lf3g0r](https://github.com/b3lf3g0r)
 
