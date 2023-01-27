@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, Linux, JavaScript, Python, Project Management and Cyber Security**
 
-- 👯 I’m looking to collaborate on [projet-pending]()
+- 👯 I’m looking to collaborate on [elektra](https://github.com/b3lf3g0r/elektra)
 
 - 👨‍💻 All of my projects are available at [https://github.com/b3lf3g0r](https://github.com/b3lf3g0r)
 
