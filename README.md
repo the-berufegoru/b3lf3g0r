@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Møøbi Kabelø</h1>
 <h2 align="center">A passionate cyber security enthusiast, IT project manager and back-end developer from South Africa</h2>
 
-- 🔭 I’m currently working on [phoenix](https://github.com/b3lf3g0r/phoenix)
+- 🔭 I’m currently working on [astro-api](https://github.com/b3lf3g0r/astro-api)
 
 - 🌱 I’m currently learning **C, Linux, JavaScript, Python, Project Management and Cyber Security**
 
-- 👯 I’m looking to collaborate on [sphynx](https://github.com/evolinks/sphynx)
+- 👯 I’m looking to collaborate on []()
 
 - 👨‍💻 All of my projects are available at [elregalo.me](https://github.com/b3lf3g0r)
 
