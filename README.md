@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Møøbi Kabelø</h1>
 <h2 align="center">A passionate cyber security enthusiast, IT project manager and back-end developer from South Africa</h2>
 
-- 🔭 I’m currently working on [Astro Commerce](https://github.com/b3lf3g0r/astro-commerce)
+- 🔭 I’m currently working on [Astro Commerce](https://github.com/afridek/astro-commerce)
 
 - 🌱 I’m currently learning **C, Linux, JavaScript, Python, Project Management and Cyber Security**
 
-- 👯 I’m looking to collaborate on [Astro SDK](https://github.com/Afridek/astro-sdk)
+- 👯 I’m looking to collaborate on [Astro SDK](https://github.com/afridek/astro-sdk)
 
 - 👨‍💻 All of my projects are available at [elregalo.me](https://github.com/b3lf3g0r)
 
