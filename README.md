@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Møøbi Kabelø</h1>
 <h2 align="center">A passionate cyber security enthusiast, IT project manager and back-end developer from South Africa</h2>
 
-- 🔭 I’m currently working on [Oxide Commerce]([https://github.com/afridek-software/oxide-commerce]) 
+- 🔭 I’m currently working on [Oxide Commerce](https://github.com/afridek-software/oxide-commerce)
 
 - 🌱 I’m currently learning **C, Linux, JavaScript, Python, Project Management and Cyber Security**
 
