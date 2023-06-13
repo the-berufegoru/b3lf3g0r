@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b3lf3g0r&label=Profile%20views&color=0e75b6&style=flat" alt="b3lf3g0r" /> </p>
 
-- 🔭 I’m currently working on [cartify](https://github.com/b3lf3g0r/cartify)
+- 🔭 I’m currently working on [Cartify](https://github.com/b3lf3g0r/cartify)
 
 - 🌱 I’m currently learning **ExpressJs,Python, C/C++, Ruby**
 
-- 👯 I’m looking to collaborate on [fin-core](https://github.com/b3lf3g0r/fin-core)
+- 👯 I’m looking to collaborate on [Swift Bank](https://github.com/b3lf3g0r/swift-bank)
 
 - 👨‍💻 All of my projects are available at [https://moobi-kabelo.vercel.app](https://moobi-kabelo.vercel.app)
 
