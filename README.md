@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b3lf3g0r&label=Profile%20views&color=0e75b6&style=flat" alt="b3lf3g0r" /> </p>
 
-- 🔭 I’m currently working on [Cartify](https://github.com/b3lf3g0r/cartify)
+- 🔭 I’m currently working on [Oxide Commerce](https://github.com/b3lf3g0r/oxide-commerce)
 
-- 🌱 I’m currently learning **ExpressJs,Python, C/C++, Ruby**
+- 🌱 I’m currently learning **ExpressJs,Python, C/C+, C#**
 
 - 👯 I’m looking to collaborate on [Swift Bank](https://github.com/b3lf3g0r/swift-bank)
 
